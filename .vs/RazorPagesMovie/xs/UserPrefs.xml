@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{6E56DCA3-5753-4CBE-A13F-E823739AC632}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RazorPagesMovie/Data/RazorPagesMovieContext.cs">
+    <Files>
+      <File FileName="RazorPagesMovie/Program.cs" Line="1" Column="1" />
+      <File FileName="RazorPagesMovie/Models/Movie.cs" Line="23" Column="1" />
+      <File FileName="RazorPagesMovie/Data/RazorPagesMovieContext.cs" Line="1" Column="1" />
+      <File FileName="RazorPagesMovie/Pages/Movies/Index.cshtml" Line="1" Column="1" />
+      <File FileName="RazorPagesMovie/Models/SeedData.cs" Line="1" Column="1" />
+      <File FileName="RazorPagesMovie/Pages/Movies/Index.cshtml.cs" Line="1" Column="1" />
+      <File FileName="RazorPagesMovie/Migrations/RazorPagesMovieContextModelSnapshot.cs" Line="1" Column="1" />
+      <File FileName="RazorPagesMovie/Pages/Index.cshtml" Line="1" Column="1" />
+      <File FileName="RazorPagesMovie/Pages/Index.cshtml.cs" Line="1" Column="1" />
+      <File FileName="RazorPagesMovie/Pages/Movies/Create.cshtml.cs" Line="43" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RazorPagesMovie" expanded="True">
+            <Node name="RazorPagesMovie" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/samkittendorf/Projects/RazorPagesMovie/RazorPagesMovie/Pages/Movies/Create.cshtml.cs" relfile="RazorPagesMovie/Pages/Movies/Create.cshtml.cs" line="34" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RazorPagesMovie PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
